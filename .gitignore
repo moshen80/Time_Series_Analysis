@@ -2,3 +2,8 @@ __pycache__/utils.cpython-39.pyc
 .DS_Store
 .ipynb_checkpoints/utils-checkpoint.py
 .ipynb_checkpoints/.gitignore-checkpoint
+.ipynb_checkpoints/Number_of_Passengers_Prediction_Intro-checkpoint.ipynb
+.ipynb_checkpoints/Anomally_Detection_Using_AutoEncoder-checkpoint.ipynb
+.ipynb_checkpoints/Number_of_Passengers_Prediction_Using_LSTM-checkpoint.ipynb
+.ipynb_checkpoints/Number_of_Passengers_Prediction_Using_ANN_Keras-checkpoint.ipynb
+.ipynb_checkpoints/Number_of_Passengers_Prediction_AutoRegressiveModel-checkpoint.ipynb
